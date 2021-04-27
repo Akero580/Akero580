@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Åke Rosvall
+- 👀 I’m interested in Statistics, machine learning, and coding
+- 🌱 I’m currently studying to get my bachelors degree in statistics and data analysis
